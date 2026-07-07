@@ -40,7 +40,7 @@ Sou especialista em **Marketing de Performance** com foco em Meta Ads e geraçã
 ### 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dougmoura">
+  <a href="https://www.linkedin.com/in/dougpmoura">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/dougscodesontheloose">
